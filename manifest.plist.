@@ -17,13 +17,13 @@
         <key>metadata</key>
         <dict>
             <key>bundle-identifier</key>
-            <string>com.tinkoff.ios</string>
+            <string>com.kitchen.brief</string>
             <key>bundle-version</key>
             <string>3.1.1</string>
             <key>kind</key>
             <string>software</string>
             <key>title</key>
-            <string>Тинькофф 8PRO</string>
+            <string>8PRO</string>
         </dict>
     </dict>
 </array>
